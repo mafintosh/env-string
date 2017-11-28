@@ -6,6 +6,8 @@ Inlines env vars in a string that contains $NAME expressions
 npm install env-string
 ```
 
+[![Build Status](https://travis-ci.org/mafintosh/env-string.svg?branch=master)](https://travis-ci.org/mafintosh/env-string)
+
 ## Usage
 
 ``` js
