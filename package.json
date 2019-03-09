@@ -1,6 +1,6 @@
 {
   "name": "env-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inlines env vars in a string that contains $NAME expressions",
   "main": "index.js",
   "dependencies": {},
